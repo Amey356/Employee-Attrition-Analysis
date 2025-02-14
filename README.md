@@ -19,7 +19,8 @@ Each level includes detailed interpretations and visualizations to derive action
 - Provided data-backed insights to enhance employee retention strategies.
 
 ## 📂 Files in Repository
-- `Employee_Attrition_Dataset.xlsx` - Contains all analysis and visualizations.
+- `Employee_Attrition_Dataset.xlsx` - Dataset
+- Level 1, Level 2, Level 3 - Contains all analysis and visualizations.
 - `EmployeeAttritionAnalysis.pptx` - Presentation summarizing key findings.
 - `README.md` - Project documentation.
 
